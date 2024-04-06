@@ -8,7 +8,7 @@ Recentemente, fiz o meu primeiro curso em Java e tenho realizado alguns projetos
 Estou à procura de explorar novas tecnologias relacionadas ao desenvolvimento de software. 
 Além disso, estou aprofundando meus conhecimentos em redes, particularmente em configuração e gerenciamento de dispositivos Cisco.
 
-## O que estou buscando
+## O que procuro
 Estou interessado em oportunidades para colaborar em projetos de desenvolvimento de software, especialmente aqueles relacionados a programação e redes. 
 Estou aberto a projetos desafiadores onde posso contribuir com minhas habilidades e aprender com outros desenvolvedores.
 
